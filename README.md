@@ -1,16 +1,41 @@
-## Hi there 👋
+Hi 👋, I'm Uday Behra
 
-<!--
-**UB-dotcom/UB-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA 4th Semester Student
+💻 Interested in Programming, Web Development and Software Engineering
+🌱 Currently learning C++, Data Structures, and Web Development
+🚀 Building projects to improve my skills
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skills
+
+- C++
+- Data Structures
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+---
+
+📂 Projects
+
+🔹 Fruit Juice Website
+🔗 https://ub-dotcom.github.io/fruit-juice-project/
+
+🔹 ATM Simulator (C++ with File Handling)
+
+🔹 Phonebook System (Turbo C++)
+
+---
+
+📊 GitHub Stats
+
+"Uday's GitHub stats" (https://github-readme-stats.vercel.app/api?username=UB-dotcom&show_icons=true)
+
+---
+
+🌐 Connect With Me
+
+📧 Email: your-email@example.com
+🌍 GitHub: https://github.com/UB-dotcom
